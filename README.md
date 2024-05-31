@@ -51,4 +51,4 @@ these companies.
   Aug. 2019 - https://engineering.linkedin.com/blog/2019/data-hub
 
 # Frameworks
-See []()
+See [GitHub - Material for the Data platform - Metadata frameworks](https://github.com/data-engineering-helpers/metadata/blob/main/README.md#frameworks)
