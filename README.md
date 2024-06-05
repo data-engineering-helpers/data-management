@@ -50,5 +50,11 @@ these companies.
   by [Mars Lan](https://www.linkedin.com/in/marslan/) _et al_,
   Aug. 2019 - https://engineering.linkedin.com/blog/2019/data-hub
 
+## Delta universal format (UniForm)
+* Delta Lake Universal Format (UniForm) for Iceberg compatibility, now Generally Available (GA):
+  https://www.databricks.com/blog/delta-lake-universal-format-uniform-iceberg-compatibility-now-ga
+* Authors: Jonathan Brito, Fred Liu and Susan Pierce
+* Date: June 2024
+
 # Frameworks
 See [GitHub - Material for the Data platform - Metadata frameworks](https://github.com/data-engineering-helpers/metadata/blob/main/README.md#frameworks)
