@@ -24,6 +24,15 @@ these companies.
 
 # Articles
 
+## Data Platform Philosophy
+* Title: Issue #22 – Deciding on your Data Platform Philosophy
+* Date: Sep. 2024
+* Authors: Dylan Anderson
+  ([Dylan Anderson on LinkedIn](),
+  [Dylan Anderson on Substack](https://substack.com/@thedataecosystem))
+* Link to the article: https://thedataecosystem.substack.com/p/issue-22-deciding-on-your-data-platform
+* Publisher: Substack
+
 ## Composable Data Management
 * Title: Composable data management at Meta
 * Date: May 2024
