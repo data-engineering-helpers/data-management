@@ -24,6 +24,11 @@ these companies.
 
 # Articles
 
+## LakeDB
+* Title: 
+* Date: Jan. 2025
+* Link to the article: https://open.substack.com/pub/dataengineeringweekly/p/envisioning-lakedb-the-next-evolution
+
 ## Data Platform Philosophy
 * Title: Issue #22 – Deciding on your Data Platform Philosophy
 * Date: Sep. 2024
