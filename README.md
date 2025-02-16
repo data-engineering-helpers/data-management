@@ -11,22 +11,25 @@ Even though the members of the GitHub organization may be employed by
 some companies, they speak on their personal behalf and do not represent
 these companies.
 
-# References
-* [Material for the Data platform - Metadata](https://github.com/data-engineering-helpers/metadata)
-* [Material for the Data platform - Data-lakes, data warehouses, data lake-houses](https://github.com/data-engineering-helpers/data-lakehouse)
-* [Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
-* [Material for the Data platform - Data quality](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
-* [Material for the Data platform - Modern Data Stack (MDS) in a box](https://github.com/data-engineering-helpers/mds-in-a-box/blob/main/README.md)
-* [Architecture principles for data engineering pipelines on the Modern Data Stack (MDS)](https://github.com/data-engineering-helpers/architecture-principles)
-  + [Material for the Data platform - Architecture principles](https://github.com/data-engineering-helpers/architecture-principles/blob/main/material/README.md)
-* Specifications/principles for a
-  [data engineering pipeline deployment tool](https://github.com/data-engineering-helpers/data-pipeline-deployment)
+## Other repositories of Data Engineering helpers
+* [Data Engineering Helpers - Knowledge Sharing - Data products](https://github.com/data-engineering-helpers/data-products)
+* [Data Engineering Helpers - Knowledge Sharing - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
+* [Data Engineering Helpers - Knowledge Sharing - Data quality](https://github.com/data-engineering-helpers/data-quality)
+* [Data Engineering Helpers - Knowledge Sharing - Architecture principles](https://github.com/data-engineering-helpers/architecture-principles)
+* [Data Engineering Helpers - Knowledge Sharing - Data life cycle](https://github.com/data-engineering-helpers/data-life-cycle)
+* [Data Engineering Helpers - Knowledge Sharing - Data lakehouse](https://github.com/data-engineering-helpers/data-lakehouse)
+* [Data Engineering Helpers - Knowledge Sharing - Metadata](https://github.com/data-engineering-helpers/metadata)
+* [Data Engineering Helpers - Knowledge Sharing - Data pipeline deployment](https://github.com/data-engineering-helpers/data-pipeline-deployment)
+* [Data Engineering Helpers - Knowledge Sharing - Semantic layer](https://github.com/data-engineering-helpers/semantic-layer)
 
 # Articles
 
-## LakeDB
-* Title: 
+## Envisioning LakeDB: The Next Evolution of the Lakehouse Architecture
+* Title: Envisioning LakeDB: The Next Evolution of the Lakehouse Architecture
 * Date: Jan. 2025
+* Author: Ananth Packkildurai
+  ([Ananth Packkildurai on LinkedIn](https://www.linkedin.com/in/ananthdurai/),
+  [Ananth Packkildurai on Substack](https://substack.com/@dataengineeringweekly))
 * Link to the article: https://open.substack.com/pub/dataengineeringweekly/p/envisioning-lakedb-the-next-evolution
 
 ## Data Platform Philosophy
