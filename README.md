@@ -83,4 +83,6 @@ these companies.
 * Date: June 2024
 
 # Frameworks
-See [GitHub - Material for the Data platform - Metadata frameworks](https://github.com/data-engineering-helpers/metadata/blob/main/README.md#frameworks)
+See:
+* [GitHub - Material for the Data platform - Data product frameworks](https://github.com/data-engineering-helpers/data-products/blob/main/README.md#frameworks)
+* [GitHub - Material for the Data platform - Metadata frameworks](https://github.com/data-engineering-helpers/metadata/blob/main/README.md#frameworks)
