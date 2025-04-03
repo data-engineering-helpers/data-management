@@ -32,6 +32,15 @@ these companies.
   [Ananth Packkildurai on Substack](https://substack.com/@dataengineeringweekly))
 * Link to the article: https://open.substack.com/pub/dataengineeringweekly/p/envisioning-lakedb-the-next-evolution
 
+## The data product marketplace
+* Title: The Data Product Marketplace: A Single Interface for Business
+* Date: Ot. 2024
+* Author: Arielle Rolland
+  ([Arielle Rolland on LinkedIn](https://www.linkedin.com/in/arielle-rolland-458405106/),
+  [Arielle Rolland on Substack](https://substack.com/@ariellerolland))
+* Link to the article on Substack:
+  https://moderndata101.substack.com/p/the-data-product-marketplace-a-single
+
 ## Data Platform Philosophy
 * Title: Issue #22 – Deciding on your Data Platform Philosophy
 * Date: Sep. 2024
